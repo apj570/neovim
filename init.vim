@@ -41,6 +41,15 @@ Plug 'frazrepo/vim-rainbow'
 Plug 'junegunn/goyo.vim'
 
 
+Plug 'roxma/nvim-completion-manager'
+
+Plug 'Sirver/ultisnips'
+
+Plug 'honza/vim-snippets'
+
+
+
+
 call plug#end()
 
 
